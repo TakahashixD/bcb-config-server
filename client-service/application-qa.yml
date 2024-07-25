@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: bcb
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+client-service:
+  client: "qa"
+  default-value: "qa default"
