@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 client-service:
-  client: "dev"
-  default-value: "deve default"
+  client: "default"
+  default-value: "default"
