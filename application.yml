@@ -9,4 +9,4 @@ management:
         - '*'
 client-service:
   client: "default"
-  default-value: "default"
+  default-value: "teste"
